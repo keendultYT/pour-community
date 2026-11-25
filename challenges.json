@@ -36,5 +36,252 @@
   ],
   "endMin": 120,
   "endMax": 150
+ },
+ "2026-W49": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2026-W50": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2026-W51": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2026-W52": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2026-W53": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W01": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W02": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W03": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W04": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W05": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W06": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W07": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
+ },
+ "2027-W08": {
+  "recipe": "랜스 더블블룸 · 15g",
+  "pours": [
+   {
+    "target": 45,
+    "at": 0
+   },
+   {
+    "target": 90,
+    "at": 30
+   },
+   {
+    "target": 225,
+    "at": 60
+   }
+  ],
+  "endMin": 120,
+  "endMax": 150
  }
 }
