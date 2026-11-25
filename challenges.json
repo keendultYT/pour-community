@@ -12,7 +12,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -31,7 +32,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -50,7 +52,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -69,7 +72,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -88,7 +92,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -107,7 +112,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -126,7 +132,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -145,7 +152,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -164,7 +172,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -183,7 +192,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -202,7 +212,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -221,7 +232,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -240,7 +252,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -259,7 +272,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
@@ -278,7 +292,8 @@
    },
    {
     "target": 225,
-    "at": 60
+    "at": 60,
+    "targetMax": 240
    }
   ],
   "endMin": 120,
